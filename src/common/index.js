@@ -1,4 +1,4 @@
-const backendDomin = "https://back-eight-taupe.vercel.app/"
+const backendDomin = "http://localhost:8080"
 
 const SummaryApi = {
     signUP : {
